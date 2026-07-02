@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi 👋, I'm Sahil Mangade
 
-<!--
-**sahilmangade/sahilmangade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Java Full Stack Developer
 
-Here are some ideas to get you started:
+🎓 BCS Graduate (2025)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Skills
+- Java
+- Spring Boot
+- MySQL
+- SQL
+- React
+- JavaScript
+- HTML
+- CSS
+- Git
+- GitHub
+- REST APIs
+
+🚀 Projects
+- Employee Management System
+
+🌱 Currently learning Advanced Java and building real-world projects.
+
+📫 Email: sahilmangade2004@gmail.com
